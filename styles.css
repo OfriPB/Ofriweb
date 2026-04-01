@@ -1,13 +1,15 @@
 html {
   background-color: blue;
+  display: flex;
+ justify-content: centre; 
 }
 h1{
-  background-color: red;y;
-  color: green;
+  background-color: red;
+   color: green;
 }
 p{
   background-color: yellow;
 }
 .text{
-font-family: Papyrus, Copperplate, Fantasy;
+ font-family: Papyrus, Copperplate, Fantasy;
 }
