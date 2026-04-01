@@ -2,9 +2,12 @@ html {
   background-color: blue;
 }
 h1{
-  background-color: red;
+  background-color: red;y;
   color: green;
 }
 p{
   background-color: yellow;
+}
+.text{
+font-family: Papyrus, Copperplate, Fantasy;
 }
