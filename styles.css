@@ -6,6 +6,7 @@ text-align center;
 h1{
   background-color: red;
    color: green;
+  width=2% hight=3%
 }
 p{
   background-color: yellow; 
@@ -16,3 +17,4 @@ p{
 }
 video{ 
 width: 65.49176320%
+}
