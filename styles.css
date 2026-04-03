@@ -9,6 +9,13 @@ h1{
   width: auto; 
   height: 50px;
 }
+h3{
+  background-color: MediumSpringGreen;
+  color: Lime;
+}
+img{
+  background-color: Lime;
+}
 p{
   background-color: yellow; 
   color: MediumSpringGreen;
